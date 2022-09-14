@@ -1,0 +1,13 @@
+{
+  "name": "mjml-qr-code-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "mjml input.mjml -o output.html"
+  },
+  "dependencies": {
+    "mjml": "^4.13.0",
+    "mjml-qr-code": "^2.0.0"
+  }
+}
